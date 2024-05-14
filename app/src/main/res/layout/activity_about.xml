@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/pink"
+    android:padding="16dp"
+    tools:context=".AboutActivity">
+
+    <ImageView
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="50dp"
+        android:src="@drawable/cat" />
+
+    <TextView
+        android:textColor="@color/darkbrown"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_gravity="center_horizontal"
+        android:gravity="center"
+        android:text="About"
+        android:textSize="32sp" />
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|end"
+        android:layout_marginTop="20dp"
+        android:justificationMode="inter_word"
+        android:text="Aplikasi ini ditujukan untuk mereka yang belum paham dalam merwat maupun jenis kucing apa yang mereka miliki. Beragam jenis ras dan ciri perbedaan tersebut, sulit bagi orang awam untuk membedakan dari 1 ras dengan ras lainnya, apalagi beberapa ras kucing memilisi ciri yang hampir sama. Dengan mengetahui jenis ras kucing yang dimiliki, para pemelihara kucing dapat mengetahui jenis dan pengetahuan tentang kucing yang dimiliknya dan mengetahui bagaimana cara merawat kucing yang sesuai dengan perawatan ras dan mengetahui makan-makanan apa saja yang cocok dengan mereka."
+        android:textColor="@color/darkbrown"
+        android:textSize="13sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|end"
+        android:layout_marginTop="20dp"
+        android:text="Dibuat oleh: Caroline Sherina Hanjani"
+        android:textColor="@color/darkbrown"
+        android:textSize="13sp" />/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|end"
+
+        android:text="NPM: 51419427"
+        android:textColor="@color/darkbrown"
+        android:textSize="13sp" />/>
+
+</LinearLayout>

@@ -1,0 +1,5 @@
+0 british_shorthair
+1 bengal
+2 persian
+3 ragdoll
+4 sphynx

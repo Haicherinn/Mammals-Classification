@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cats Classification</string>
+    <string name="catClassification">Cats Scanner</string>
+    <string name="opening"><b>Ingin tau jenis-jenis kucing ada apa saja?\n\n</b>Cari tau disini!</string>
+    <string name="scan_here"><b>Scan Disini!\n\n</b>Identifikasi kucingmu</string>
+    <string name="kucing">Cat</string>
+    <string name="kucing_adalah">Kucing adalah hewan yang memiliki..</string>
+    <string name="kucing_scanner">Cat Scanner</string>
+    <string name="info">Information</string>
+
+</resources>
